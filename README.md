@@ -16,7 +16,7 @@
 ## 💻 Featured Projects
 
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/Eng-AhmedGhanem/Project-1-Stone---Paper---Scissor-)
-- [Project 2 ( Math Game )](https://github.com/YOUR_USERNAME/Project-2-Math-Game)
+- [Project 2 ( Math Game )](https://github.com/Eng-AhmedGhanem/Project-2-Math-Game-)
 ---
 
 ## 🏆 Achievements & Progress
