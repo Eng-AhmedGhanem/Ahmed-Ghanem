@@ -14,11 +14,9 @@
 ---
 
 ## 💻 Featured Projects
-| # | Project Name | Description | Link |
-|:-:|---------------|-------------|------|
-| 🎮 1 | **Stone - Paper - Scissor Game** | A command-line game where you play against the computer. | [View on GitHub](https://github.com/YOUR_USERNAME/Project-1-Stone-Paper-Scissor) |
-| ➕ 2 | **Math Game** | Simple math challenge game using random numbers. | [View on GitHub](https://github.com/YOUR_USERNAME/Project-2-Math-Game) |
 
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/Eng-AhmedGhanem/Project-1-Stone---Paper---Scissor-)
+- [Project 2 ( Math Game )](https://github.com/YOUR_USERNAME/Project-2-Math-Game)
 ---
 
 ## 🏆 Achievements & Progress
