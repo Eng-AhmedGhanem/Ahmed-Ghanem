@@ -1,12 +1,9 @@
 # 👋 Hello! I'm Ahmed Ghanem  
-🎓 Student at ‏‎Higher institute of Computers,Information and Management technology & Programming Path  
-👨‍💻 Passionate about C++, OOP, and building projects while following **AbouHadhoud’s Roadmap**.
-
+🎓 Student at the Higher Institute of Computers & IT 👨‍💻 Currently learning C++ and building simple projects while following Mohamed Abou Hadhoud’s Roadmap toward .NET Backend Development. Passionate about improving my programming skills and problem-solving abilities.
 ---
 
 ## 🛠️ Skills & Tools
 - C++
-- Object-Oriented Programming (OOP)
 - File Handling
 - Problem Solving
 - Git & GitHub Basics
@@ -22,7 +19,6 @@
 ## 🏆 Achievements & Progress
 - Completed **6+ courses** from *AbouHadhoud Platform* 🧠  
 - Solved **250+ programming problems** 💪  
-- Learning **Algorithms & Data Structures** 📘  
 
 ---
 
@@ -34,5 +30,5 @@
 ---
 
 ## 📬 Contact Me
-📧 Email: ahmedman96321@gmail.com
+📧 Email: ahmed.a.ghanem33@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/ahmed-ghanem-701223321/ 
